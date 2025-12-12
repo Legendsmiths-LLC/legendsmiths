@@ -1,2 +1,3 @@
 Unless a project subdirectory specifies a different license, all content on this site is goverend by this license:
+
 [Legendsmiths Content](https://legendsmiths.github.io) © 2025 by [Shane Harsch](https://github.com/Legendsmiths-LLC) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height:1em; vertical-align:middle;"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height:1em; vertical-align:middle;"> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="height:1em; vertical-align:middle;"> <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="height:1em; vertical-align:middle;">
