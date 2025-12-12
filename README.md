@@ -1,2 +1,2 @@
-# legendsmiths
-Legendsmiths public repository for github pages
+# Legendsmiths
+Forging new worlds in this public repository for GitHub Pages
